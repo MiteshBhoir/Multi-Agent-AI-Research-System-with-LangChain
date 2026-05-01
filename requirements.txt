@@ -1,71 +1,9 @@
-# Core LLM
-openai
-tiktoken
-streamlit
-# LangChain + Agents + LCEL/Runnables
-langchain
-langchain-core
-langchain-community
+streamlit==1.35.0
+langchain==0.2.0
 langchain-openai
 langchain-mistralai
-langgraph
-
-# Tavily Search Tool
-tavily-python
-tavily
-# Web scraping
-beautifulsoup4
-requests
-httpx
-lxml
-html5lib
-
-# Optional dynamic scraping
-playwright
-selenium
-
-# ReAct / Agent support
-pydantic
-tenacity
-
-# Data processing
-pandas
-numpy
-
-# Retrieval / Vector DB
-faiss-cpu
-chromadb
-
-# Embeddings (optional)
-sentence-transformers
-transformers
-
-# Backend/API (optional)
-fastapi
-uvicorn
-
-# Utilities
 python-dotenv
-dotenv
-aiohttp
-rich
-tqdm
-orjson
-loguru
-
-# Memory / persistence (optional but useful)
-redis
-sqlalchemy
-
-# Research sources (optional)
-arxiv
-wikipedia
-
-# Dev
-pytest
-black
-isort
-jupyter
-
-# Observability (recommended)
-langsmith
+requests
+beautifulsoup4
+tavily-python
+streamlit
