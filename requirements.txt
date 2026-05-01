@@ -1,7 +1,7 @@
 # Core LLM
 openai
 tiktoken
-
+streamlit
 # LangChain + Agents + LCEL/Runnables
 langchain
 langchain-core
