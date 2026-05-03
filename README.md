@@ -10,6 +10,7 @@ Instead of relying on a single LLM, this system uses **four specialized agents**
 * 🧐 Critic Agent → Reviews and scores the report
 
 ---
+## Live Link : [ResearchMind](https://multi-agent-ai-research-system-with-langchain-xtlyaqhadvmynz2r.streamlit.app/) 
 
 ## 🚀 Features
 
@@ -21,7 +22,15 @@ Instead of relying on a single LLM, this system uses **four specialized agents**
 * Clean and modern UI built with Streamlit
 
 ---
+## Output 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4696dd6-e176-4ba9-8b81-65657440351b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f000e857-f2c7-41f7-9c18-65ab85b6e00d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/404b797c-1704-4172-9b88-134493c1fe02" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f71d226-2b9a-49d5-94a8-08dd16d2f740" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/734ac36a-ecbb-4be8-a37b-b27d8a15402f" />
 
+
+---
 ## 🧠 Architecture
 ```
     User Input
